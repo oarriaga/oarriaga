@@ -6,7 +6,7 @@
 
 | [Emotion classifier](https://github.com/oarriaga/paz/tree/master/examples/face_classification) | [6D pose estimation](https://github.com/oarriaga/paz/tree/master/examples/pix2pose) | [Human pose estimation](https://github.com/oarriaga/paz/tree/master/examples/human_pose_estimation_2D) |
 |---------------------------|--------------------------| -----------------------|
-|<img src="https://raw.githubusercontent.com/oarriaga/altamira-data/master/images/emotion.gif" width="325">|  <img src="https://raw.githubusercontent.com/oarriaga/altamira-data/master/images/pix2pose_example.jpg" width="420"> | <img src="https://raw.githubusercontent.com/oarriaga/altamira-data/master/images/human_pose.gif" width="330"> | 
+|<img src="https://raw.githubusercontent.com/oarriaga/altamira-data/master/images/emotion.gif" width="225">|  <img src="https://raw.githubusercontent.com/oarriaga/altamira-data/master/images/pix2pose_example.jpg" width="420"> | <img src="https://raw.githubusercontent.com/oarriaga/altamira-data/master/images/human_pose.gif" width="230"> | 
 
 <!--
 **oarriaga/oarriaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
