@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋! Check out [PAZ](https://github.com/oarriaga/paz) for more :)
+
+| [Probabilistic 2D keypoints](https://github.com/oarriaga/paz/tree/master/examples/probabilistic_keypoint_estimation)| [6D head-pose estimation](https://github.com/oarriaga/paz/tree/master/examples/pose_estimation)  | [Object detection](https://github.com/oarriaga/paz/tree/master/examples/object_detection)|
+|---------------------------|--------------------------| ------------------|
+|<img src="https://raw.githubusercontent.com/oarriaga/altamira-data/master/images/probabilistic_keypoints.png" width="425"> | <img src="https://raw.githubusercontent.com/oarriaga/altamira-data/master/images/head_pose.png" width="420">| <img src="https://raw.githubusercontent.com/oarriaga/altamira-data/master/images/object_detection.png" width="430">|
+
+| [Emotion classifier](https://github.com/oarriaga/paz/tree/master/examples/face_classification) | [6D pose estimation](https://github.com/oarriaga/paz/tree/master/examples/pix2pose) | [Human pose estimation](https://github.com/oarriaga/paz/tree/master/examples/human_pose_estimation_2D) |
+|---------------------------|--------------------------| -----------------------|
+|<img src="https://raw.githubusercontent.com/oarriaga/altamira-data/master/images/emotion.gif" width="310">|  <img src="https://raw.githubusercontent.com/oarriaga/altamira-data/master/images/pix2pose_example.jpg" width="380"> | <img src="https://raw.githubusercontent.com/oarriaga/altamira-data/master/images/human_pose.gif" width="310"> | 
 
 <!--
 **oarriaga/oarriaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
