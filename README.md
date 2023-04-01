@@ -1,6 +1,6 @@
 ### Hi there 👋! Check out [PAZ](https://github.com/oarriaga/paz) for more :)
 
-| [6D pose estimation](https://github.com/oarriaga/paz/tree/master/examples/pix2pose) | [6D head-pose estimation](https://github.com/oarriaga/paz/tree/master/examples/pose_estimation)  | [Object detection](https://github.com/oarriaga/paz/tree/master/examples/object_detection)|
+| [6D pose estimation](https://github.com/oarriaga/paz/tree/master/examples/pix2pose) | [6D head-pose estimation](https://github.com/oarriaga/paz/tree/master/examples/head_pose_estimation_6D)  | [Object detection](https://github.com/oarriaga/paz/tree/master/examples/object_detection)|
 |---------------------------|--------------------------| ------------------|
 |  <img src="https://raw.githubusercontent.com/oarriaga/altamira-data/master/images/pix2pose_example.jpg" width="360">  | <img src="https://raw.githubusercontent.com/oarriaga/altamira-data/master/images/head_pose.png" width="420">| <img src="https://raw.githubusercontent.com/oarriaga/altamira-data/master/images/object_detection.png" width="430">|
 
